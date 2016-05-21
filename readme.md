@@ -4,4 +4,6 @@
 
 # E-mail: jnsegerviergutz@gmail.com
 
-# Função: Analista de Suporte
+# FunÃ§Ã£o: Analista de Suporte
+
+# Cidade Natal: Joinville
