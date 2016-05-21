@@ -5,3 +5,5 @@
 # E-mail: jnsegerviergutz@gmail.com
 
 # Função: Analista de Suporte
+
+# Nacionalidade: Brasileiro.
