@@ -7,3 +7,8 @@
 # Função: Analista de Suporte
 
 # Nacionalidade: Brasileiro.
+
+# FunÃ§Ã£o: Analista de Suporte
+
+# Cidade Natal: Joinville
+
